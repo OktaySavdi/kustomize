@@ -1,6 +1,7 @@
 resources:
    - nginx-deployment.yaml
-   
+   - service.yaml
+
 commonLabels:
   someName: deneme
   owner: oktay
@@ -16,3 +17,6 @@ replicas:
 images:
 - name: nginx
   newTag: 1.8.0
+
+#patches:
+#- path: patch.yaml
