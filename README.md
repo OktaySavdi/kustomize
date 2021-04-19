@@ -17,3 +17,5 @@ curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack
 **# references**
 
 https://kubectl.docs.kubernetes.io/references/kustomize/
+
+![image](https://user-images.githubusercontent.com/3519706/115189581-56dec500-a0ef-11eb-9e18-a3a3e8deb43e.png)
