@@ -7,7 +7,7 @@ commonLabels:
   owner: oktay
 
 commonAnnotations:
-  sidecar.istio.io/inject: true
+  sidecar.istio.io/inject: "true"
 
 namePrefix: test-
 
